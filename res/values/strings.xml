@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Widget Provider List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="details">Details</string>
+    <string name="info_hint">Widget Provider Info</string>
+
+</resources>

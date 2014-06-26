@@ -1,0 +1,8 @@
+# SAMPLE GIT Ignore FILE for Android Application
+*.class
+*.dex
+bin/
+gen/
+project.properties
+.classpath
+.project
